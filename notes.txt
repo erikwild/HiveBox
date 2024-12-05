@@ -3,4 +3,4 @@
 6550b7984192410007cb292c - Alter Steinbruch Giessen
 
 
-https://api.opensensemap.org/boxes/:6550b7984192410007cb292c?format=:format
+https://api.opensensemap.org/boxes/:6550b7984192410007cb292c?format=json
