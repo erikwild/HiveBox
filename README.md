@@ -4,5 +4,5 @@
 
 How to run the API
 
-uvicorn api:app --reload
+`uvicorn api:app --reload`
 
